@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="edu.columbia.yayshin.socialalarm.MyAlarmsActivity">
+    tools:context="edu.columbia.yayshin.socialalarm.MainActivity">
 
     <FrameLayout
         android:id="@+id/content"
